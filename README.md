@@ -18,4 +18,4 @@ I'm currently looking for opportunities as a frontend developer.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-gnat/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pawel.coder/)
 
-## Check out my pinned projects below:
+## Check out my pinned projects below ⤵️
