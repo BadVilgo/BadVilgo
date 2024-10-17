@@ -1,6 +1,4 @@
-![]
-
-# Hi there! I’m Adam, frontend developer fascinated in entrepreneurship and investing. 👋
+# Hi there! I’m Adam, junior frontend developer fascinated in entrepreneurship and investing. 👋
 
 I'm currently looking for opportunities as a frontend developer.
 
