@@ -13,4 +13,7 @@ I'm currently looking for opportunities as a frontend developer.
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## You can reach me here:
+📧 gnatowski.adam.biz@gmail.com
+
 ## Check out my pinned projects below ⤵️
