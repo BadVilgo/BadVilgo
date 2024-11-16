@@ -18,4 +18,6 @@ I'm currently looking for opportunities as a frontend developer.
 
 ☎️ +48 668680404 (Tel/ Whatsapp)
 
+📍 Warsaw, Poland / Remote
+
 ## Check out my pinned projects below ⤵️
