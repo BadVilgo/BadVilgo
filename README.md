@@ -15,5 +15,6 @@ I'm currently looking for opportunities as a frontend developer.
 
 ## You can reach me here:
 📧 gnatowski.adam.biz@gmail.com
+☎️ +48 668680404 (Tel/ Whatsapp)
 
 ## Check out my pinned projects below ⤵️
