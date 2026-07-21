@@ -1,6 +1,6 @@
 # Hi there! 
 
-I’m Adam, junior frontend developer fascinated in entrepreneurship and investing. 👋
+I’m Adam, frontend developer fascinated in entrepreneurship and investing. 👋
 
 ## My Tech Stack:
 
