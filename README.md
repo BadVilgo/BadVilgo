@@ -1,23 +1,65 @@
-# Hi there! 
+# Adam Gnatowski
 
-I’m Adam, developer fascinated in entrepreneurship and investing. 👋
+**Frontend Developer** · Warsaw, Poland / Remote
 
-## My Tech Stack:
+I build fast, accessible web applications in React, TypeScript, Next.js and Astro.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+I care about the part of frontend that ends up in business numbers: Core Web Vitals, technical SEO and conversion. Outside of work I'm into entrepreneurship and investing, which is where most of my side projects start.
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-## You can reach me here:
-📧 gnatowski.adam.biz@gmail.com
+## Featured projects
 
-☎️ +48 668680404 (Tel/ Whatsapp)
+### 📰 [AI News Dashboard](https://github.com/BadVilgo/newsy) · [live demo →](https://newsy-nine.vercel.app)
 
+A news dashboard with configurable topics. Pulls and ranks the most relevant stories from the last 24-48 h through the **Gemini API with Google Search grounding**, always with sources attached.
+
+Per-user data secured with Row Level Security · request rate limiting at the database level · daily refresh through a scheduled workflow · CI running typecheck, tests and build on every push and pull request.
+
+`Next.js 15 (App Router)` `TypeScript` `Supabase` `Gemini API` `Vitest` `GitHub Actions` `Vercel`
+
+### 📈 [Investment Portfolio Tracker](https://github.com/BadVilgo/investing-portfolio-2) · [live demo →](https://badvilgo.github.io/investing-portfolio-2)
+
+A dashboard for tracking an investment portfolio: live quotes from the Twelve Data API, per-position performance, 30-day value history and allocation charts.
+
+Calculation logic extracted into pure functions and covered by unit tests · graceful handling of free-tier API limits, falling back to the last known data instead of throwing an error at the user.
+
+`React 18` `TypeScript` `Vite` `Supabase` `Chart.js` `Vitest` `Testing Library`
+
+---
+
+## Tech stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Backend & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Quality & tooling**
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Also working with:** WCAG 2.2 / axe, Core Web Vitals, technical SEO, Sitecore, Strapi, Contentful, Shopify, WooCommerce, Google Tag Manager / GA4.
+
+---
+
+## Contact
+
+📧 [gnatowski.adam.biz@gmail.com](mailto:gnatowski.adam.biz@gmail.com)
+💼 [linkedin.com/in/adamgnatowski](https://linkedin.com/in/adamgnatowski)
 📍 Warsaw, Poland / Remote
-
-## Check out my pinned projects below ⤵️
