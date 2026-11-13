@@ -8,7 +8,7 @@ I care about the part of frontend that ends up in business numbers: Core Web Vit
 
 ---
 
-## Featured projects
+## Featured project
 
 ### 📰 [AI News Dashboard](https://github.com/BadVilgo/newsy) · [live demo →](https://newsy-nine.vercel.app)
 
@@ -17,14 +17,6 @@ A news dashboard with configurable topics. Pulls and ranks the most relevant sto
 Per-user data secured with Row Level Security · request rate limiting at the database level · daily refresh through a scheduled workflow · CI running typecheck, tests and build on every push and pull request.
 
 `Next.js 15 (App Router)` `TypeScript` `Supabase` `Gemini API` `Vitest` `GitHub Actions` `Vercel`
-
-### 📈 [Investment Portfolio Tracker](https://github.com/BadVilgo/investing-portfolio-2) · [live demo →](https://badvilgo.github.io/investing-portfolio-2)
-
-A dashboard for tracking an investment portfolio: live quotes from the Twelve Data API, per-position performance, 30-day value history and allocation charts.
-
-Calculation logic extracted into pure functions and covered by unit tests · graceful handling of free-tier API limits, falling back to the last known data instead of throwing an error at the user.
-
-`React 18` `TypeScript` `Vite` `Supabase` `Chart.js` `Vitest` `Testing Library`
 
 ---
 
